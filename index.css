@@ -41,6 +41,7 @@ li[aria-checked="true"] {
   list-style-image: url("./img/check-square-regular.svg");
 }
 
+
 #completed-message {
   visibility: hidden;
 }
